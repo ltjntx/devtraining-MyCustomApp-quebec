@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>my_string_field-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-28 19:33:31</sys_created_on>
+        <sys_id>6346c3651bbf20105e66a9f9bc4bcb8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>my_string_field-FieldValue</sys_name>
+        <sys_package display_value="My Custom App" source="x_549893_my_custom">2f7247a11bbf20105e66a9f9bc4bcb4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom App">2f7247a11bbf20105e66a9f9bc4bcb4f</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_6346c3651bbf20105e66a9f9bc4bcb8f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-28 19:33:31</sys_updated_on>
+        <view_config display_value="My Custom App Table List Screen View Config">27460fe11bbf20105e66a9f9bc4bcb8e</view_config>
+        <view_template_slot display_value="text_02">6c738dbc41e35010f877183fc9b8be9a</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

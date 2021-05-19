@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">2f46c3651bbf20105e66a9f9bc4bcb9a</embedded_screen>
+        <form display_value="My Custom App Table Form Screen">2346c3651bbf20105e66a9f9bc4bcb9a</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-28 19:33:31</sys_created_on>
+        <sys_id>2346c3651bbf20105e66a9f9bc4bcb9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My Custom App" source="x_549893_my_custom">2f7247a11bbf20105e66a9f9bc4bcb4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom App">2f7247a11bbf20105e66a9f9bc4bcb4f</sys_scope>
+        <sys_update_name>sys_sg_form_segment_2346c3651bbf20105e66a9f9bc4bcb9e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-28 19:33:31</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

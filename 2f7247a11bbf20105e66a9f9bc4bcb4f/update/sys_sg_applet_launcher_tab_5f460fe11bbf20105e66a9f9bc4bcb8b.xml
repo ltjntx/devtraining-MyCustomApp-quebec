@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="My Custom Phone App">9b460fe11bbf20105e66a9f9bc4bcb8a</applet_launcher>
+        <icon display_value="Home My Custom Phone App">9f460fe11bbf20105e66a9f9bc4bcb8b</icon>
+        <label>My Custom Phone App</label>
+        <roles>user</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-28 19:33:31</sys_created_on>
+        <sys_id>5f460fe11bbf20105e66a9f9bc4bcb8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Custom Phone App</sys_name>
+        <sys_package display_value="My Custom App" source="x_549893_my_custom">2f7247a11bbf20105e66a9f9bc4bcb4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom App">2f7247a11bbf20105e66a9f9bc4bcb4f</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_5f460fe11bbf20105e66a9f9bc4bcb8b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-28 19:33:31</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>
